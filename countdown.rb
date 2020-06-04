@@ -4,8 +4,9 @@ def countdown(num)
   while num > 0
   num +=1 
   puts "#{number} SECOND(S)!"
-  puts "HAPPY NEW YEAR!"
   num -= 1
+    puts "HAPPY NEW YEAR!"
+end 
 end 
 
 # def countdown
