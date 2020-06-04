@@ -1,5 +1,6 @@
 #write your code here
 
 def countdown
-  countdown = 
+  countdown = 0 
+  
 end
